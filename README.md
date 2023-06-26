@@ -2,7 +2,7 @@
 
 A simple comment app built with React.js.
 
-![Comment App]()
+![Comment App](https://github.com/TK-STE/commentApp/blob/main/src/assets/Screenshot%20bild%20commentApp)
 
 ## Table of Contents
 - [Installation](#installation)
