@@ -2,6 +2,8 @@
 
 A simple comment app built with React.js.
 
+![Comment App]()
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
