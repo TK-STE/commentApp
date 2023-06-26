@@ -41,5 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 If you have any questions or suggestions, feel free to contact me:
 
-- Email: [stephanie.kuimo@gmail.com](mailto: stephanie.kuimo@gmail.com)
-
+- Email: stephanie.kuimo@gmail.com 
